@@ -1,6 +1,6 @@
 {
   "name": "@snapp-store/iraninan-banks-react-icons",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Iraninan banks React SVG icons library made by SnappStore!",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
