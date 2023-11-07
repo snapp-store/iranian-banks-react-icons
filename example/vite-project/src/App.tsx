@@ -1,4 +1,4 @@
-import { SamanIcon, SamanColorIcon } from "iraninan-banks-react-icons";
+import { SamanIcon, SamanColorIcon } from "iranian-banks-react-icons";
 import "./App.css";
 
 function App() {
