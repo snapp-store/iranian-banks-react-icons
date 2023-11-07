@@ -7,5 +7,6 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
+  "publishConfig": { "access": "public" },
   "ignore": []
 }
