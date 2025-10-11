@@ -1,5 +1,11 @@
 # @snapp-store/iranian-banks-react-icons
 
+## 1.1.1
+
+### Patch Changes
+
+- d8369ab: add readme
+
 ## 1.1.0
 
 ### Minor Changes
