@@ -1,0 +1,1 @@
+const React=require("react");function IranEuropeIcon(e){return React.createElement("svg",Object.assign({xmlns:"http://www.w3.org/2000/svg",fill:"none",viewBox:"0 0 48 48",width:24,height:24},e),React.createElement("path",{fill:"#000",fillRule:"evenodd",d:"M16 15V0h32v32H33V15H16ZM0 48V16h32v32H0Z",clipRule:"evenodd"}))}module.exports=IranEuropeIcon;
